@@ -1,4 +1,3 @@
-Updated on: 181218 173842
 - Android/
     - Android Application Programming with OpenCV.pdf
     - Android Native Development Kit Cookbook.pdf

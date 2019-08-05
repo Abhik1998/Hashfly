@@ -1,7 +1,6 @@
-Updated on: 190625 184812
+Made with love by Abhik Chakraborty
 - 3d/
     - A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction  tip1709.pdf
-    - Sparse-to-Dense Depth Prediction from Sparse Depth Samples and a Single Image 1709.07492 icra18.pdf
 - alignment/
     - A Robust Method for Mosaicking Sequence Images Obtained from UAV icies10.pdf
     - Face Alignment Across Large Poses A 3D Solution CVPR2016.pdf
